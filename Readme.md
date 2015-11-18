@@ -1,7 +1,11 @@
+## How to install
+
+›`composer install`
+
 ## How to run
 
-php script.php
+›`php script.php`
 
 ## How to test
 
-phpunit tests/FiltratorTest
+›`./vendor/bin/phpunit tests/FiltratorTest`
